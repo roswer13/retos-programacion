@@ -7,7 +7,7 @@
  * - Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
  */
 
-import 'package:retos_programacion/fizz_buzz/main.dart';
+import 'package:retos_programacion/01_fizz_buzz/main.dart';
 import 'package:test/test.dart';
 
 void main() {
